@@ -165,7 +165,3 @@ for port in ports:
 - [ ] Banner grabbing to show the service behind each open port
 - [ ] Command-line arguments with `argparse` (e.g. `-p 1-9000`)
 - [ ] Save results to a file
-
-## License
-
-Released for educational use. Add a license of your choice (for example MIT) if you want others to reuse the code.
